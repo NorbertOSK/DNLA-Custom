@@ -1,0 +1,21 @@
+# Build tooling and artifacts
+.venv/
+build/
+dist/
+*.spec
+
+# Generated icon assets (recreated by make_icon.py during build)
+assets/
+
+# Runtime state
+.dlnacast-uuid
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local tooling
+.atl/
