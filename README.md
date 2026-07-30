@@ -1,5 +1,7 @@
 # DNLA Custom
 
+https://github.com/user-attachments/assets/eb9a253c-d7e9-4663-9559-ea777e1c3678
+
 Turn your Mac into a wireless screen for your phone. **DNLA Custom** makes
 your Mac show up as a DLNA cast target on your local network — pick it from
 any DLNA-capable app on your phone and the video plays on your Mac through
